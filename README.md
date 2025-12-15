@@ -18,5 +18,5 @@
 **Jahziel Garcia**  
 [JahzielGarcia.com](https://jahzielgarcia.com)  
 [X (Twitter)](https://x.com/Jahziel)
-[Instagram](https://instagram.com/jahziel.dev
+[Instagram](https://instagram.com/jahziel.dev)
 
