@@ -1,6 +1,6 @@
 # NeonDodge
 
-¡Un juego de supervivencia adictivo donde controlas una bola roja y esquivas obstáculos giratorios neon!
+Un juego de supervivencia adictivo donde controlas una bola roja y esquivas obstáculos giratorios neon.
 
 ## Tecnologías utilizadas:
 - HTML
@@ -14,8 +14,7 @@
 - Totalmente responsivo (funciona en telefono y computadora)
 - Menú de inicio y pantalla de Game Over con reinicio directo
 
-## Hecho por
-**Jahziel Garcia**  
+## Hecho por **Jahziel Garcia**  
 [JahzielGarcia.com](https://jahzielgarcia.com)  
 
 [X (Twitter)](https://x.com/Jahziel) 
